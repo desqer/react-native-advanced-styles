@@ -1,0 +1,21 @@
+{
+  "name": "react-native-advanced-styles",
+  "version": "0.1.0",
+  "description": "Advanced Styles for React Native",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desqer/react-native-advanced-styles"
+  },
+  "keywords": [
+    "react-native",
+    "stylesheet",
+    "style",
+    "css",
+    "react",
+    "native",
+    "cascade"
+  ],
+  "author": "Diego Schell Fernandes <diego.schell.f@gmail.com> (https://github.com/diego3g)",
+  "license": "MIT"
+}
