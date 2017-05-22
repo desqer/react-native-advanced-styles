@@ -7,5 +7,5 @@ Advanced Stylesheet for [React Native](https://github.com/facebook/react-native)
 ## Install
 
 ```shell
-npm install --save react-native-device-info
+npm install --save react-native-advanced-styles
 ```
